@@ -1,13 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
-import profile from '../../data/profile.json';
-import careerData from '../../data/career.json';
-
-const career: {
-  experience: { role: string; organization?: string; period?: string; description?: string }[];
-  education: { qualification: string; institution?: string; period?: string; description?: string }[];
-  skills: { category: string; items?: string }[];
-} = careerData;
+import profile from '../../lib/profile';
+import career from '../../lib/career';
 ---
 
 <Base title="About" description={`About ${profile.name}: ${profile.role}`}>

@@ -2,7 +2,9 @@
 import Base from '../layouts/Base.astro';
 import EntryCard from '../components/EntryCard.astro';
 import ProfileOrbit from '../components/ProfileOrbit.astro';
-import profile from '../data/profile.json';
+import SocialLinks from '../components/SocialLinks.astro';
+import EducationSummary from '../components/EducationSummary.astro';
+import profile from '../lib/profile';
 import { gmailComposeUrl } from '../lib/contact';
 import site from '../data/site.json';
 import { published, dateLabel } from '../lib/content';
@@ -21,12 +23,14 @@ const selected = (featured.length ? featured : projects).slice(0, 3);
       <p class="eyebrow">Hello, I'm</p>
       <h1 id="home-title">{profile.name}<span class="accent-dot">.</span></h1>
       <p class="hero-role">{profile.role}</p>
+      <EducationSummary hero />
       <p class="hero-intro">{profile.intro}</p>
       <div class="hero-actions">
         <a class="button button-primary" href="/projects/">Explore my work <span aria-hidden="true">↗</span></a>
         <a class="button button-quiet" href="/about/">More about me <span aria-hidden="true">→</span></a>
       </div>
       <p class="hero-location">{profile.location || site.tagline}</p>
+      <SocialLinks variant="hero" />
     </div>
   </section>
 
@@ -41,7 +45,7 @@ const selected = (featured.length ? featured : projects).slice(0, 3);
   </section>
 
   <section class="section" aria-labelledby="research-heading">
-    <div class="section-top"><div><p class="eyebrow">03 / Research</p><h2 id="research-heading">Questions & findings</h2></div><a class="text-link" href="/research/">All {research.length} entries <span aria-hidden="true">↗</span></a></div>
+    <div class="section-top"><div><p class="eyebrow">03 / Research</p><h2 id="research-heading">Research &amp; publications</h2></div><a class="text-link" href="/research/">All {research.length} entries <span aria-hidden="true">↗</span></a></div>
     {research.length ? <div class="home-research-list">{research.slice(0, 3).map(entry => <a class="home-research-item" href={`/research/${entry.id}/`}><span class="entry-meta">{entry.data.venue || 'Research'} · {dateLabel(entry.data.date)}</span><strong>{entry.data.title}</strong><span aria-hidden="true">↗</span></a>)}</div> : <p class="empty-message">Research will appear here when published.</p>}
   </section>
 
