@@ -8,7 +8,6 @@
   "portrait": "/uploads/images/60029677342253780644578617388554475668758435n.jpg",
   "cv": "/uploads/documents/adib-hassan-cvhigher-studies.pdf",
   "linkedin": "https://www.linkedin.com/in/adib-hassan-9572a0238/",
-  "github": "https://github.com/Adib-Hassan-1",
   "scholar": "https://scholar.google.com/citations?user=2Kb1Un4AAAAJ&hl=en",
   "orcid": "https://orcid.org/my-orcid?orcid=0009-0005-0814-9197",
   "researchgate": "https://www.researchgate.net/profile/Adib-Hassan-2?ev=hdr_xprf",
@@ -20,6 +19,10 @@
     {
       "url": "https://www.facebook.com/adib.adibhassan",
       "label": "Facebook"
+    },
+    {
+      "url": "https://github.com/Adib-Hassan-1",
+      "label": "Github"
     }
   ]
 }
