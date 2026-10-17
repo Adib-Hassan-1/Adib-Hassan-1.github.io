@@ -1,5 +1,58 @@
 {
-  "experience": [],
-  "education": [],
-  "skills": []
+  "experience": [
+    {
+      "role": "Chair",
+      "organization": "IEEE RUET STUDENT BRANCH",
+      "period": "10/11/2022 to 01/09/2026",
+      "description": "Served as the Chair of IEEE RUET SB, overseeing team activities and orchestrating major events (Etechnovation, Technofair) and workshops as part of the organizing committee, including several conferences (ICCIT, ICECTE, PEEIACON, INDcon), and a national event named RUET EEE Day.\n\tFounding Member of IEEE RUET AP-S Student Branch Chapter.\n\tFormer Treasurer at IEEE RUET SB\t\t\t\t     \n\tFormer Publicity Coordinator at IEEE RUET SB\n"
+    },
+    {
+      "role": "Vice Chair (Activity)",
+      "organization": "IEEE Computer Society Bangladesh Chapter",
+      "period": "10/01/2026 to Present",
+      "description": "Collaborated with IEEE volunteers, industry professionals, academics, and student communities to facilitate impactful technical initiatives."
+    },
+    {
+      "role": "Vice Chair (Outreach) & Founding Member",
+      "organization": "RUET CORE (Collaborative Opportunities in Research & Education)",
+      "period": "14/06/2024 to 12/09/2026",
+      "description": "Led outreach initiatives to connect RUET students and researchers with academic, research and professional opportunities.\nContributed as a founding member to the development of RUET CORE’s vision, structure, activities and long-term outreach strategy."
+    },
+    {
+      "role": "Director (Event Management)",
+      "organization": "HULT PRIZE at RUET",
+      "period": "10/07/2023 to 15/08/2025",
+      "description": "Coordinated with organizing teams, university authorities, mentors, judges, speakers, and external stakeholders to ensure smooth event execution."
+    },
+    {
+      "role": "Joint Secretary",
+      "organization": "NDCAR(Notre Dame College Association of RUET)",
+      "period": "23/08/2024 to 31/08/2026",
+      "description": "Represented the organization in meetings and activities while supporting effective teamwork and organizational operations."
+    },
+    {
+      "role": "Teacher and Script Evaluator- Part-time",
+      "organization": "UDVASH (Academic and Admission Care)",
+      "period": "03/06/2022 to 22/11/2024",
+      "description": "During my undergraduate studies, I gained teaching experience by delivering academic instruction and providing structured guidance to students preparing for competitive exams."
+    }
+  ],
+  "education": [
+    {
+      "qualification": "Bachelor of Science in Engineering",
+      "institution": "Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh",
+      "period": "05.03.2022 to 08.09.2026"
+    },
+    {
+      "qualification": "Higher Secondary Certificate Examination (HSC)",
+      "institution": "Notre Dame College, Dhaka, Bangladesh",
+      "period": "2018 to 2020",
+      "description": "Adib Hassan has completed his undergraduate (BSc) degree from the Department of Electrical and Electronic Engineering (EEE) at Rajshahi University of Engineering & Technology (RUET), Bangladesh. He is an emerging researcher with a strong interest in photonics, plasmonics, and biomedical sensing technologies, particularly in the development and optimization of advanced Surface Plasmon Resonance (SPR) biosensors for medical diagnostics."
+    },
+    {
+      "qualification": "Secondary School Certificate Examination (SSC)",
+      "institution": "Jashore Zilla School, Jashore, Bangladesh",
+      "period": "2018"
+    }
+  ]
 }
