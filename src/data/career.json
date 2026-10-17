@@ -54,5 +54,19 @@
       "institution": "Jashore Zilla School, Jashore, Bangladesh",
       "period": "2018"
     }
+  ],
+  "skills": [
+    {
+      "category": "Engineering Software",
+      "items": "COMSOL Multiphysics, LOGO! Soft Comfort, Microwind, Multisim, Arduino IDE, Omron CX-Programmer, Anaconda Navigator."
+    },
+    {
+      "category": "Programming",
+      "items": "MATLAB, C, Python."
+    },
+    {
+      "category": "Microsoft Office",
+      "items": "Microsoft Word, Microsoft Excel, Microsoft PowerPoint."
+    }
   ]
 }
