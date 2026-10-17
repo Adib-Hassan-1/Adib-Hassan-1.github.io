@@ -14,15 +14,15 @@
   "ieee": "https://ieeexplore.ieee.org/author/850148521258470",
   "links": [
     {
+      "url": "https://github.com/Adib-Hassan-1",
+      "label": "Github"
+    },
+    {
       "url": "https://ieeeruetsb.net/hall-of-fame/"
     },
     {
       "url": "https://www.facebook.com/adib.adibhassan",
       "label": "Facebook"
-    },
-    {
-      "url": "https://github.com/Adib-Hassan-1",
-      "label": "Github"
     }
   ]
 }
