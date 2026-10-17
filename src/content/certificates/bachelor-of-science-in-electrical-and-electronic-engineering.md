@@ -6,5 +6,6 @@ summary: "Adib Hassan completed his undergraduate studies in Electrical and
 date: 2026-08-09
 issuer: Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh
 image: /uploads/images/bsc-engr-pvc.jpg
+link: https://ruet.ac.bd/
 published: true
 ---
