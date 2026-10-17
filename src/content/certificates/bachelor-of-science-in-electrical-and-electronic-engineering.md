@@ -1,5 +1,5 @@
 ---
-title: Bachelor of Science in Electrical & Electronic Engineering
+title: "Bachelor of Science in Electrical & Electronic Engineering "
 summary: "Adib Hassan completed his undergraduate studies in Electrical and
   Electronic Engineering (EEE) at Rajshahi University of Engineering &
   Technology (RUET), Bangladesh. "
