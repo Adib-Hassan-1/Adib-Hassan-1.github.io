@@ -1,5 +1,5 @@
 ---
-title: Certificate of Recongnition
+title: CERTIFICATE OF RECOGNITION
 summary: >-
   This certificate is proudly presented to Adib Hassan
 
