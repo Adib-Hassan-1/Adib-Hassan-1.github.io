@@ -48,17 +48,19 @@
       "qualification": "Bachelor of Science in Engineering",
       "institution": "Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh",
       "period": "2022 to 2026",
-      "description": "Department of Electrical and Electronic Engineering (EEE) \n\n\n(CGPA: 3.79/4.00                                                                                                                                                             \n\nRank: 15/181) \n"
+      "description": "Department of Electrical and Electronic Engineering (EEE) \n\n(CGPA: 3.79/4.00                                                                                                                                                             \n1st Class with Honours\nRank: 15/181) \n"
     },
     {
       "qualification": "Higher Secondary Certificate Examination (HSC)",
       "institution": "Notre Dame College, Dhaka, Bangladesh",
-      "period": "2018 to 2020"
+      "period": "2018 to 2020",
+      "description": "Grades : English (A+), Physics (A+), Chemistry (A+), Higher Mathematics (A+), Bangla (A+), Information & Communication Technology (A+), Biology (A+)"
     },
     {
       "qualification": "Secondary School Certificate Examination (SSC)",
       "institution": "Jashore Zilla School, Jashore, Bangladesh",
-      "period": "2018"
+      "period": "2018",
+      "description": "Grades : English (A+), Physics (A+), Chemistry (A+), Higher Mathematics (A+), Mathematics (A+), Bangla (A+),Bangladesh & Global Studies (A+), Information & Communication Technology (A+), Biology (A+)"
     }
   ],
   "skills": [
