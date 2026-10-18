@@ -1,5 +1,5 @@
 ---
-title: CERTIFICATE OF HONOR
+title: Certificate of Honor
 summary: >-
   This certificate is proudly presented to Adib Hassan. In recognition of your
   exceptional leadership, unwavering dedication, and remarkable contribution as
