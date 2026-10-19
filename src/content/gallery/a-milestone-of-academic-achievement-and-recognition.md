@@ -7,7 +7,7 @@ summary: A truly special moment marking the successful completion of my
   faculty members. A proud reflection of years of hard work, perseverance, and
   personal growth, making the culmination of my academic journey even more
   memorable.
-date: 2026-08-31
+date: 2026-09-02
 image: /uploads/images/79914995844932946743328644455969028125876843n.jpg
 location: Rajshahi University of Engineering and Technology
 featured: true
