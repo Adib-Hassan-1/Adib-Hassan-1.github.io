@@ -1,6 +1,6 @@
 import { getCollection } from 'astro:content';
 
-type CollectionName = 'projects' | 'research' | 'certificates' | 'achievements';
+type CollectionName = 'projects' | 'research' | 'certificates' | 'achievements' | 'gallery';
 
 export const defaultResearchImage = '/images/research-default.png';
 
