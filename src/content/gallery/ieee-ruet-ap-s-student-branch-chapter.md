@@ -13,7 +13,7 @@ summary: >-
   has only recently begun its journey, this recognition marks a promising start
   and reflects our dedication to innovation, teamwork, and excellence in the
   IEEE community.
-date: 2026-08-28
+date: 2026-08-30
 image: /uploads/images/whatsapp-image-2026-10-18-at-115459-am-1.jpeg
 location: Rajshahi, Bangladesh
 featured: true
