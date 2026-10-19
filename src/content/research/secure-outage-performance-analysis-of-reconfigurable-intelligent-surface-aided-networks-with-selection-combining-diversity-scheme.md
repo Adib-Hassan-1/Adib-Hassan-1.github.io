@@ -23,7 +23,7 @@ summary: This paper investigates the outage-based secrecy performance of
   obtained results confirm that integrating RIS technology with low-complexity
   SC diversity provides an effective and energy-efficient solution for enhancing
   physical-layer security in future wireless networks.
-date: 2926-06-18
+date: 2026-06-18
 venue: Conference
 link: https://ieeexplore.ieee.org/abstract/document/11662065
 pdf: /uploads/documents/secureoutageperformanceanalysisofreconfigurableintelligentsurface-aidednetworkswithselectioncombiningdiversityscheme.pdf
