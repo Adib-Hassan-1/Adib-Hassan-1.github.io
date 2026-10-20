@@ -17,5 +17,5 @@ gallery:
   - image: /uploads/images/63033213242799254323364575719799567831974136n-1.jpg
     caption: Paper Presentation
     featured: false
-published: false
+published: true
 ---
