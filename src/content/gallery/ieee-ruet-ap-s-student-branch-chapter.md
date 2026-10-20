@@ -2,7 +2,7 @@
 title: IEEE RUET AP-S Student Branch Chapter
 summary: >-
   A proud milestone for the newly established IEEE RUET AP-S Student Branch
-  Chapter, securing **2nd Runner-Up position at IEEE AP-S PULSE 1.0, held at the
+  Chapter, securing 2nd Runner-Up position at IEEE AP-S PULSE 1.0, held at the
   University of Rajshahi, while representing both the IEEE RUET AP-S Student
   Branch Chapter and IEEE RUET Student Branch.
 
