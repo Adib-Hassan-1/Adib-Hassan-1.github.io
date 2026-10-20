@@ -22,9 +22,10 @@ summary: >-
   the state or of discipline.
 
   I wish him every success in life
-date: 2026-09-19
+date: 2026-09-16
 organization: Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh
 image: /uploads/images/bsc-testmonial-head.jpg
+featureCover: false
 link: https://ruet.ac.bd/
 published: true
 ---
