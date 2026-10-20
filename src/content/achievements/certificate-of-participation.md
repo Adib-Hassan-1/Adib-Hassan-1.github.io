@@ -8,6 +8,7 @@ summary: |-
 date: 2025-02-10
 organization: Siliconova Limited
 image: /uploads/images/siliconova.jpg
+featureCover: true
 link: https://www.siliconova.com/
 published: true
 ---
