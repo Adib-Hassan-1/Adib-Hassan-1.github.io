@@ -29,7 +29,7 @@ summary: >-
 date: 2021-02-15
 organization: Notre Dame College
 image: /uploads/images/hsc-testmonial.jpg
-featureCover: true
+featureCover: false
 link: https://ndc.edu.bd/
 published: true
 ---
