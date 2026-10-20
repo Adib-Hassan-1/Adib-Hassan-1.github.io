@@ -12,9 +12,10 @@ summary: >-
   in all your
 
   future endeavors.
-date: 2026-10-18
+date: 2026-09-18
 organization: Notre Dame College Association of RUET
 image: /uploads/images/ndcarjoint-secretary.jpg
+featureCover: false
 link: https://www.facebook.com/photo/?fbid=122167963130466001&set=pcb.122167964300466001
 published: true
 ---
