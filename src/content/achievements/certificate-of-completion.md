@@ -12,7 +12,7 @@ summary: >-
 date: 2026-09-12
 organization: RUET CORE (Collaborative Opportunities in Research & Education)
 image: /uploads/images/ruet-corevice-chair.jpg
-featureCover: true
+featureCover: false
 link: https://www.facebook.com/photo/?fbid=122149375100744070&set=pcb.122148666500744070
 published: true
 ---
