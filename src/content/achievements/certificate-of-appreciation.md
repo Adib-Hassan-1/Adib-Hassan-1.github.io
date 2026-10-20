@@ -21,7 +21,8 @@ gallery:
   - image: /uploads/images/whatsapp-image-2026-10-18-at-115459-am-1-1.jpeg
     caption: Receiving the certificate for securing 2nd Runner-Up position at IEEE
       AP-S PULSE 1.0, held at the University of Rajshahi from Prof. Karu P.
-      Esselle
+      Esselle Distinguished Professor of Electromagnetic and Antenna Engineering
+      at the University of Technology Sydney, Australia
     featured: false
 published: true
 ---
