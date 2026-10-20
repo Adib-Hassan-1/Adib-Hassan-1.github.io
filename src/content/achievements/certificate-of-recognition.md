@@ -13,6 +13,9 @@ date: 2025-02-26
 organization: HULT PRIZE at RUET
 image: /uploads/images/hult-prizedirectorevent-management.jpg
 featureCover: false
+gallery:
+  - image: /uploads/images/whatsapp-image-2026-10-21-at-124753-am-1.jpeg
+    featured: false
 link: https://www.facebook.com/hultprizeatruet
 published: true
 ---
