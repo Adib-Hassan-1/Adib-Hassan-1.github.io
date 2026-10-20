@@ -6,7 +6,7 @@ summary: A proud moment of recognition for my contributions as Director of Event
   innovation, entrepreneurship, and social impact within the university
   community.
 date: 2025-04-30
-image: /uploads/images/50410221240309088872381144592700202647978851n.jpg
+image: /uploads/images/whatsapp-image-2026-10-21-at-124753-am.jpeg
 location: Rajshahi, Bangladesh
 featured: true
 published: true
