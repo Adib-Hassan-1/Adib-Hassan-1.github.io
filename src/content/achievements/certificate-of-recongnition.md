@@ -9,9 +9,10 @@ summary: >-
   Branch (24-25), Publicity Coordinator, IEEE RUET Student Branch (23-24).
 
   We are hoping for his bright and glorious future.
-date: 2026-09-01
+date: 2026-09-18
 organization: IEEE RUET STUDENT BRANCH
 image: /uploads/images/ieeechair-1.jpg
+featureCover: false
 link: https://ieeeruetsb.net/hall-of-fame/
 published: true
 ---
