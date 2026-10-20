@@ -13,6 +13,8 @@ summary: >-
 date: 2026-06-18
 organization: " International Conference on Power, Electronics, Communications,
   Computing, and Intelligent Infrastructure 2026 (PECCII 2026)"
+image: /uploads/images/peccipapercertificate.jpg
 featureCover: false
+link: https://peccii.pust.ac.bd/
 published: true
 ---
