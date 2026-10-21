@@ -1,5 +1,5 @@
 ---
-title: Certificate of Contribution
+title: Certificate of Contribution & Certificate of Appreciation
 summary: A significant milestone in my research journey, presenting my work at
   the 2026 5th International Conference on Electrical, Computer &
   Telecommunication Engineering (ICECTE 2026). Alongside presenting my research,
@@ -16,6 +16,8 @@ featureCover: false
 gallery:
   - image: /uploads/images/63033213242799254323364575719799567831974136n-1.jpg
     caption: Paper Presentation
+    featured: false
+  - image: /uploads/images/ieee-certficate-14.jpg
     featured: false
 link: https://icecte.ruet.ac.bd/
 published: true
