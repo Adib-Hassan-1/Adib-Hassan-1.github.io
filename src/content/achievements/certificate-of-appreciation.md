@@ -15,7 +15,7 @@ summary: >-
   IEEE community.
 date: 2026-09-30
 organization: Department of ICE University of Rajshahi & IEEE AP-S-MTTS Bangladesh Chapter
-image: /uploads/images/ed40ec5b-9877-40cb-a76e-6ab4cdc7b12d-1.jpg
+image: /uploads/images/whatsapp-image-2026-10-21-at-123306-am.jpeg
 featureCover: false
 gallery:
   - image: /uploads/images/whatsapp-image-2026-10-18-at-115459-am-1-1.jpeg
