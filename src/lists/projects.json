@@ -36,7 +36,7 @@
         "image": "/uploads/images/whatsapp-image-2026-10-27-at-120643-am.jpeg"
       }
     ],
-    "featured": false,
-    "published": false
+    "featured": true,
+    "published": true
   }
 ]
