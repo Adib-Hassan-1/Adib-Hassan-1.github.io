@@ -1,71 +1,66 @@
 [
   {
+    "id": "a-milestone-of-academic-achievement-and-recognition",
     "title": "A Milestone of Academic Achievement and Recognition",
     "summary": "A truly special moment marking the successful completion of my undergraduate studies at RUET. Honored to receive recognition from the Honorable Pro-Vice-Chancellor on stage in the presence of the respected Head of the Department of Electrical and Electronic Engineering and esteemed faculty members. A proud reflection of years of hard work, perseverance, and personal growth, making the culmination of my academic journey even more memorable.",
     "date": "2026-09-02",
     "image": "/uploads/images/79914995844932946743328644455969028125876843n.jpg",
     "location": "Rajshahi University of Engineering and Technology",
     "featured": true,
-    "published": true,
-    "id": "a-milestone-of-academic-achievement-and-recognition",
-    "body": ""
+    "published": true
   },
   {
+    "id": "ieee-ruet-student-branch",
     "title": "IEEE RUET STUDENT BRANCH",
     "summary": "A moment of honor and recognition as I receive a commemorative crest from the Honorable Vice-Chancellor of RUET in appreciation of my contributions as Chair of the IEEE RUET Student Branch.",
     "date": "2026-09-01",
     "image": "/uploads/images/whatsapp-image-2026-10-18-at-115458-am.jpeg",
     "location": "Rajshahi University of Engineering and Technology",
     "featured": true,
-    "published": true,
-    "id": "ieee-ruet-student-branch",
-    "body": ""
+    "published": true
   },
   {
+    "id": "ieee-ruet-ap-s-student-branch-chapter",
     "title": "IEEE RUET AP-S Student Branch Chapter",
     "summary": "A proud milestone for the newly established IEEE RUET AP-S Student Branch Chapter, securing 2nd Runner-Up position at IEEE AP-S PULSE 1.0, held at the University of Rajshahi, while representing both the IEEE RUET AP-S Student Branch Chapter and IEEE RUET Student Branch.\n\nReceiving the certificate from Prof. Karu P. Esselle, Distinguished Professor of Electromagnetic and Antenna Engineering at the University of Technology Sydney, Australia, made this achievement even more memorable. As the chapter has only recently begun its journey, this recognition marks a promising start and reflects our dedication to innovation, teamwork, and excellence in the IEEE community.",
     "date": "2026-08-30",
     "image": "/uploads/images/whatsapp-image-2026-10-18-at-115459-am-1.jpeg",
     "location": "Rajshahi, Bangladesh",
     "featured": true,
-    "published": true,
-    "id": "ieee-ruet-ap-s-student-branch-chapter",
-    "body": ""
+    "published": true
   },
   {
+    "id": "ieee-ruet-student-branch-1",
     "title": "IEEE RUET STUDENT BRANCH",
     "summary": "A proud moment of recognition as Chair of the IEEE RUET Student Branch, receiving a token of appreciation from the Honorable Pro-Vice-Chancellor and esteemed faculty members of RUET. A memorable milestone celebrating leadership, dedication, and a commitment to advancing the IEEE community.",
     "date": "2026-08-29",
     "image": "/uploads/images/whatsapp-image-2026-10-18-at-115459-am.jpeg",
     "location": "Rajshahi, Bangladesh",
     "featured": true,
-    "published": true,
-    "id": "ieee-ruet-student-branch-1",
-    "body": ""
+    "published": true
   },
   {
+    "id": "ruet-core-collaborative-opportunities-in-research-and-education",
     "title": "RUET CORE (Collaborative Opportunities in Research & Education)",
     "summary": "A memorable moment celebrating my journey as Vice Chair of RUET CORE, reflecting a meaningful chapter of leadership, teamwork, and collaboration. An experience that strengthened my commitment to innovation, personal growth, and making a lasting impact.",
     "date": "2026-08-22",
     "image": "/uploads/images/whatsapp-image-2026-10-18-at-115458-am-1.jpeg",
     "location": "Rajshahi University of Engineering and Technology",
     "featured": true,
-    "published": true,
-    "id": "ruet-core-collaborative-opportunities-in-research-and-education",
-    "body": ""
+    "published": true
   },
   {
+    "id": "ieee-women-in-engineering-wie-day-celebration",
     "title": " IEEE Women in Engineering (WIE) Day celebration",
     "summary": "A memorable moment from the IEEE Women in Engineering (WIE) Day celebration, where I had the privilege of addressing the audience as Chair of the IEEE RUET Student Branch. Standing at the podium and sharing my remarks in the presence of esteemed faculty members, the event celebrated leadership, inclusion, and the empowerment of women in engineering, reflecting IEEE’s commitment to building a more diverse and inspiring engineering community.",
     "date": "2026-06-26",
     "image": "/uploads/images/whatsapp-image-2026-10-19-at-110818-pm.jpeg",
     "location": "Rajshahi University of Engineering and Technology",
     "featured": true,
-    "published": true,
-    "id": "ieee-women-in-engineering-wie-day-celebration",
-    "body": ""
+    "published": true
   },
   {
+    "id": "conference-paper-presentation",
     "title": "Conference paper presentation",
     "summary": "A significant milestone in my research journey, presenting my work  at the 2026 5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE 2026). Alongside presenting my research, I had the privilege of serving as a leading organizing member of the conference as part of the IEEE RUET Student Branch, contributing to the successful execution of this international academic event. An enriching experience that brought together research, technical excellence, teamwork, and professional leadership.",
     "date": "2026-01-31",
@@ -73,22 +68,23 @@
     "location": "Rajshahi University of Engineering and Technology",
     "link": "https://icecte.ruet.ac.bd/",
     "featured": true,
-    "published": true,
-    "id": "conference-paper-presentation",
-    "body": ""
+    "published": true
   },
   {
+    "id": "hult-prize-at-ruet",
     "title": "HULT PRIZE at RUET",
     "summary": "A proud moment of recognition for my contributions as Director of Event Management at Hult Prize at  RUET. This experience reflects my dedication to event leadership, team coordination, and fostering an environment of innovation, entrepreneurship, and social impact within the university community.",
     "date": "2025-04-30",
     "image": "/uploads/images/whatsapp-image-2026-10-21-at-124753-am.jpeg",
     "location": "Rajshahi, Bangladesh",
     "featured": true,
-    "published": true,
-    "id": "hult-prize-at-ruet",
-    "body": ""
+    "published": true
   },
   {
+    "linkedImage": "/uploads/images/60759374542337518669538146741566212405824621n.jpg",
+    "linkedData": "{\"title\":\"Certificate of Appreciation\",\"summary\":\"Being part of the organizing committee of the 28th International Conference on Computer and Information Technology (ICCIT 2025), organized by the IEEE Bangladesh Section, was an opportunity to contribute to one of the key academic gatherings in computing and information technology. Working behind the scenes of a major technical conference offered valuable insight into the teamwork and coordination needed to bring together researchers, academics, and technology enthusiasts. It was a meaningful experience that broadened my perspective on academic collaboration and the role of professional communities in advancing technology.\",\"date\":\"2025-12-21\",\"image\":\"/uploads/images/60759374542337518669538146741566212405824621n.jpg\",\"location\":\"28th International Conference on Computer and Information Technology (ICCIT 2025)\",\"featured\":false,\"published\":true,\"relatedHref\":\"/recognition/achievements/certificate-of-appreciation-2/\",\"relatedLabel\":\"Related achievement\"}",
+    "relatedHref": "/recognition/achievements/certificate-of-appreciation-2/",
+    "relatedLabel": "Related achievement",
     "id": "shared-c45daf1f6926",
     "title": "Certificate of Appreciation",
     "summary": "Being part of the organizing committee of the 28th International Conference on Computer and Information Technology (ICCIT 2025), organized by the IEEE Bangladesh Section, was an opportunity to contribute to one of the key academic gatherings in computing and information technology. Working behind the scenes of a major technical conference offered valuable insight into the teamwork and coordination needed to bring together researchers, academics, and technology enthusiasts. It was a meaningful experience that broadened my perspective on academic collaboration and the role of professional communities in advancing technology.",
@@ -96,13 +92,13 @@
     "image": "/uploads/images/60759374542337518669538146741566212405824621n.jpg",
     "location": "28th International Conference on Computer and Information Technology (ICCIT 2025)",
     "featured": false,
-    "published": true,
-    "relatedHref": "/recognition/achievements/certificate-of-appreciation-2/",
-    "relatedLabel": "Related achievement",
-    "linkedImage": "/uploads/images/60759374542337518669538146741566212405824621n.jpg",
-    "linkedData": "{\"title\":\"Certificate of Appreciation\",\"summary\":\"Being part of the organizing committee of the 28th International Conference on Computer and Information Technology (ICCIT 2025), organized by the IEEE Bangladesh Section, was an opportunity to contribute to one of the key academic gatherings in computing and information technology. Working behind the scenes of a major technical conference offered valuable insight into the teamwork and coordination needed to bring together researchers, academics, and technology enthusiasts. It was a meaningful experience that broadened my perspective on academic collaboration and the role of professional communities in advancing technology.\",\"date\":\"2025-12-21\",\"image\":\"/uploads/images/60759374542337518669538146741566212405824621n.jpg\",\"location\":\"28th International Conference on Computer and Information Technology (ICCIT 2025)\",\"featured\":false,\"published\":true,\"relatedHref\":\"/recognition/achievements/certificate-of-appreciation-2/\",\"relatedLabel\":\"Related achievement\"}"
+    "published": true
   },
   {
+    "linkedImage": "/uploads/images/60714893542337521236204553694868237861170819n.jpg",
+    "linkedData": "{\"title\":\"Certificate of Appreciation\",\"summary\":\"Being part of the organizing committee of the 28th International Conference on Computer and Information Technology (ICCIT 2025), organized by the IEEE Bangladesh Section, was an opportunity to contribute to one of the key academic gatherings in computing and information technology. Working behind the scenes of a major technical conference offered valuable insight into the teamwork and coordination needed to bring together researchers, academics, and technology enthusiasts. It was a meaningful experience that broadened my perspective on academic collaboration and the role of professional communities in advancing technology.\",\"date\":\"2025-12-21\",\"image\":\"/uploads/images/60714893542337521236204553694868237861170819n.jpg\",\"location\":\"28th International Conference on Computer and Information Technology (ICCIT 2025)\",\"featured\":false,\"published\":true,\"relatedHref\":\"/recognition/achievements/certificate-of-appreciation-2/\",\"relatedLabel\":\"Related achievement\"}",
+    "relatedHref": "/recognition/achievements/certificate-of-appreciation-2/",
+    "relatedLabel": "Related achievement",
     "id": "shared-e10ccf4111f8",
     "title": "Certificate of Appreciation",
     "summary": "Being part of the organizing committee of the 28th International Conference on Computer and Information Technology (ICCIT 2025), organized by the IEEE Bangladesh Section, was an opportunity to contribute to one of the key academic gatherings in computing and information technology. Working behind the scenes of a major technical conference offered valuable insight into the teamwork and coordination needed to bring together researchers, academics, and technology enthusiasts. It was a meaningful experience that broadened my perspective on academic collaboration and the role of professional communities in advancing technology.",
@@ -110,10 +106,15 @@
     "image": "/uploads/images/60714893542337521236204553694868237861170819n.jpg",
     "location": "28th International Conference on Computer and Information Technology (ICCIT 2025)",
     "featured": false,
-    "published": true,
-    "relatedHref": "/recognition/achievements/certificate-of-appreciation-2/",
-    "relatedLabel": "Related achievement",
-    "linkedImage": "/uploads/images/60714893542337521236204553694868237861170819n.jpg",
-    "linkedData": "{\"title\":\"Certificate of Appreciation\",\"summary\":\"Being part of the organizing committee of the 28th International Conference on Computer and Information Technology (ICCIT 2025), organized by the IEEE Bangladesh Section, was an opportunity to contribute to one of the key academic gatherings in computing and information technology. Working behind the scenes of a major technical conference offered valuable insight into the teamwork and coordination needed to bring together researchers, academics, and technology enthusiasts. It was a meaningful experience that broadened my perspective on academic collaboration and the role of professional communities in advancing technology.\",\"date\":\"2025-12-21\",\"image\":\"/uploads/images/60714893542337521236204553694868237861170819n.jpg\",\"location\":\"28th International Conference on Computer and Information Technology (ICCIT 2025)\",\"featured\":false,\"published\":true,\"relatedHref\":\"/recognition/achievements/certificate-of-appreciation-2/\",\"relatedLabel\":\"Related achievement\"}"
+    "published": true
+  },
+  {
+    "title": "NotreDame College Association of RUET",
+    "summary": "Event",
+    "date": "2024-05-01",
+    "image": "/uploads/images/whatsapp-image-2026-10-26-at-113858-pm.jpeg",
+    "location": "Rajshahi University of Engineering and Technology",
+    "featured": false,
+    "published": true
   }
 ]
