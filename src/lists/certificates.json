@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Bachelor of Science in Electrical & Electronic Engineering ",
+    "summary": "Adib Hassan completed his undergraduate studies in Electrical and Electronic Engineering (EEE) at Rajshahi University of Engineering & Technology (RUET), Bangladesh. ",
+    "date": "2026-08-09",
+    "issuer": "Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh",
+    "image": "/uploads/images/bsc-engr-pvc.jpg",
+    "link": "https://ruet.ac.bd/",
+    "published": true,
+    "id": "bachelor-of-science-in-electrical-and-electronic-engineering",
+    "body": ""
+  },
+  {
+    "title": "Example: Your certificate",
+    "summary": "Describe the course or professional qualification.",
+    "date": "2026-01-01",
+    "issuer": "Issuing organization",
+    "published": false,
+    "id": "example-certificate",
+    "body": "\nReplace this example with the skills or knowledge you gained.\n"
+  },
+  {
+    "title": "Certificate of Participation",
+    "summary": "SILICONOVA LIMITED AWARDS A CERTIFICATE OF PARTICIPATION TO\nAdib Hassan\nAs of full-time involvement in Industrial Training\nSession from March 2nd to March 7th 2025",
+    "date": "2025-03-10",
+    "issuer": "Siliconova Limited",
+    "image": "/uploads/images/siliconova-1.jpg",
+    "link": "https://www.siliconova.com/",
+    "published": true,
+    "id": "certificate-of-participation",
+    "body": ""
+  },
+  {
+    "title": "Higher Secondary Certificate Examination",
+    "summary": "This is to Certify that Adib Hassan \nSon / Daughter of Md. Ahsanul Hassan and Momtaj Begum of Notre Dame College bearing Roll  No. 113714, Dhaka duly passed the Higher Secondary Certificate (HSC) Examination in Science group and secured\nG.P.A 5.00 on a scale of 5.00.",
+    "date": "2021-01-30",
+    "issuer": "Board of Intermediate and Secondary Education, Dhaka",
+    "image": "/uploads/images/hsc-c.jpg",
+    "link": "https://dhakaeducationboard.gov.bd/site/",
+    "published": true,
+    "id": "higher-secondary-certificate-examination",
+    "body": ""
+  },
+  {
+    "title": "Secondary School Certificate Examination",
+    "summary": "This is ta certify that dib Hassan \nson/saughter of Old. Ahsanul Hasan and Mombaj Bogum of Jessone Lilla School bearing Roll Jessor - 301\nNo. 114089 duly passed the Secondary School Certificate Examination of 2018 in Science group and\nobtained G.P.A. 5.00 in the Scale of 5.00.",
+    "date": "2018-05-06",
+    "issuer": "Board of Intermediate and Secondary Education, Jessore, Bangladesh",
+    "image": "/uploads/images/ssc-c.jpg",
+    "link": "https://www.jessoreboard.gov.bd/",
+    "published": true,
+    "id": "secondary-school-certificate-examination",
+    "body": ""
+  }
+]
