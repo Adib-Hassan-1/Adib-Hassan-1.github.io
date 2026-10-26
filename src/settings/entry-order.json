@@ -1,0 +1,48 @@
+{
+  "projects": [
+    "src/content/projects/pyroguard-an-intelligent-fire-fighting-robot-for-rapid-emergency-response.md",
+    "src/content/projects/example-project.md"
+  ],
+  "research": [
+    "src/content/research/high-performance-dual-channel-pcf-spr-biosensor-for-broad-range-multi-analyte-biomedical-sensing.md",
+    "src/content/research/physical-layer-security-analysis-of-ris-assisted-multicasting-with-mvdr-beamforming-over-k-shadowed-fading-channels.md",
+    "src/content/research/secure-outage-performance-analysis-of-reconfigurable-intelligent-surface-aided-networks-with-selection-combining-diversity-scheme.md",
+    "src/content/research/highly-sensitive-n-fk51acuznsebp-based-spr-biosensor-for-dengue-virus-detection-a-tmm-and-fem-approach.md",
+    "src/content/research/example-research.md",
+    "src/content/research/design-and-optimization-of-a-cafcugoinn-multilayer-spr-biosensor-for-label-free-and-highly-sensitive-tuberculosis-diagnosis.md"
+  ],
+  "certificates": [
+    "src/content/certificates/bachelor-of-science-in-electrical-and-electronic-engineering.md",
+    "src/content/certificates/example-certificate.md",
+    "src/content/certificates/certificate-of-participation.md",
+    "src/content/certificates/higher-secondary-certificate-examination.md",
+    "src/content/certificates/secondary-school-certificate-examination.md"
+  ],
+  "achievements": [
+    "src/content/achievements/certificate-of-appreciation.md",
+    "src/content/achievements/certificate-of-recongnition.md",
+    "src/content/achievements/certificate-of-honor.md",
+    "src/content/achievements/bsc-testimonial.md",
+    "src/content/achievements/certificate-of-completion.md",
+    "src/content/achievements/certificate-of-presentation-1.md",
+    "src/content/achievements/certificate-of-presentation.md",
+    "src/content/achievements/certificate-of-contribution.md",
+    "src/content/achievements/example-achievement.md",
+    "src/content/achievements/certificate-of-appreciation-2.md",
+    "src/content/achievements/certificate-of-recognition.md",
+    "src/content/achievements/certificate-of-participation.md",
+    "src/content/achievements/certificate-of-appreciation-1.md",
+    "src/content/achievements/international-industrial-activities-conference-2024.md",
+    "src/content/achievements/testimonial-from-notre-dame-college.md"
+  ],
+  "gallery": [
+    "src/content/gallery/a-milestone-of-academic-achievement-and-recognition.md",
+    "src/content/gallery/ieee-ruet-student-branch.md",
+    "src/content/gallery/ieee-ruet-ap-s-student-branch-chapter.md",
+    "src/content/gallery/ieee-ruet-student-branch-1.md",
+    "src/content/gallery/ruet-core-collaborative-opportunities-in-research-and-education.md",
+    "src/content/gallery/ieee-women-in-engineering-wie-day-celebration.md",
+    "src/content/gallery/conference-paper-presentation.md",
+    "src/content/gallery/hult-prize-at-ruet.md"
+  ]
+}
