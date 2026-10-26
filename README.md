@@ -83,7 +83,7 @@ The homepage Gallery remains limited to three selected photos. Use Feature on ho
 
 ## Selected photos appear in the Gallery editor
 
-Saving a selected Recognition or Project photo starts deployment. The build adds a shared record to `src/lists/gallery.json` and GitHub Actions saves it back to the repository. After deployment, refresh Pages CMS → Gallery to see, edit and drag those records alongside standalone photos. No image is uploaded again.
+Saving a selected award or certificate photo starts deployment. The build adds a shared record to `src/lists/gallery.json` and GitHub Actions saves it back to the repository. After deployment, refresh Pages CMS → Gallery to see, edit and drag those records alongside standalone photos. No image is uploaded again.
 
 Linked records keep Gallery edits to captions, titles, homepage selection and visibility. Unedited values follow updates to the original entry. Unchecking both Gallery/homepage selections or unpublishing/removing the source removes its linked record; standalone Gallery records stay. To remove a linked record permanently, change its selection in the original entry. Gallery's saved list order controls the full page and the three selected homepage photos. A selected certificate needs an uploaded image.
 
@@ -91,4 +91,6 @@ Linked records keep Gallery edits to captions, titles, homepage selection and vi
 
 ## Project photos on the listing
 
-Pages CMS → Projects → Project photos accepts multiple images with optional captions. All photos appear directly on the Projects listing in three columns on desktop, with two/one columns on smaller screens. A cover already included in the photos appears once. When photos exist without a cover, no extra default image is inserted. Short summary and Full story are optional; empty descriptions are hidden. Gallery/homepage selections remain separate and reuse the same image uploads.
+Pages CMS → Projects → Project photos accepts multiple images with optional captions. All photos appear directly on the Projects listing in three columns on desktop, with two/one columns on smaller screens. A cover already included in the photos appears once. When photos exist without a cover, no extra default image is inserted. Short summary and Full story are optional; empty descriptions are hidden. Main Gallery selections are reserved for awards and certificates; project photos stay in their own entries.
+
+Gallery integration applies only to awards/achievements and certificates. Projects retain their inline three-column photo galleries and optional descriptions, without Gallery or homepage-photo selection controls. The project card’s separate Show on homepage option still controls the Featured projects section.
