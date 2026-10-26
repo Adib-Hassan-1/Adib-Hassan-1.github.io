@@ -1,35 +1,6 @@
 [
   {
-    "title": "High-Performance Dual-Channel PCF-SPR  Biosensor for Broad-Range Multi-Analyte  Biomedical Sensing",
-    "summary": "This paper proposes a dual-core, dual-channel \nPhotonic crystal fiber-based surface plasmon resonance (PCF\nSPR) biosensor, numerically evaluated via the finite element \nmethod (FEM), and capable of simultaneous multi-analyte \ndetection over a refractive index (RI) range of 1.18-1.42 using \ngold as the plasmonic layer. The proposed design has maximum \nwavelength sensitivity of 38000nm/RIU, amplitude sensitivity of \n1414.43 RIU−1, figure of merit of 655.17 RIU−1 and sensor \nresolution of 9×10−6 RIU. There exists no crosstalk between the \ntwo channels and the structural tolerance analysis shows that \nthe design is robust under reasonable fabrication deviations. In \naddition to RI sensing, the sensor is able to discriminate six \ncancer cell types, with a maximum sensitivity of 7142.85 nm/RIU \nfor MCF-7 cells, and four bacterial pathogens, measuring up to \n4878.04 nm/RIU for Enterococcus faecalis. These findings \nhighlight its potential for practical diagnostic applications. ",
-    "date": "2026-09-01",
-    "venue": "Conference",
-    "published": false,
-    "id": "high-performance-dual-channel-pcf-spr-biosensor-for-broad-range-multi-analyte-biomedical-sensing",
-    "body": ""
-  },
-  {
-    "title": "Physical Layer Security Analysis of RIS-Assisted Multicasting with MVDR Beamforming Over κ-µ Shadowed Fading Channels",
-    "summary": "This paper presents a physical layer security analysis of RIS-assisted multicasting with minimum variance dis\ntortionless response (MVDR) beamforming over κ-µ shadowed fading channels. The MVDR framework is applied at the RIS to jointly maximize the received SINR at the weakest legitimate destination user and suppress the signal leakage toward a passive eavesdropper. By treating the cascade RIS channel as a virtual array, the MVDR weight vector is derived in closed form via the Sherman–Morrison identity, and the resulting SINR is shown to follow a κ-µ shadowed distribution through moment-matching.\nLeveraging this statistical characterization, closed-form expres\nsions are derived for three security metrics applicable to K\nuser multicast scenarios: the ergodic secrecy capacity (ESC), the\nprobability of non-zero secrecy capacity (PNZSC), and the secure\noutage probability (SOP). Monte Carlo simulations validate the\nanalytical results, and numerical evaluations demonstrate that\nincreasing the number of RIS elements N, the Rician factor κ,\nand the multipath clustering parameter µ consistently improves\nsecrecy performance. Results further confirm that MVDR beam\nforming provides a measurable security gain over conventional\ncoherent phase alignment, particularly when the eavesdropper\nchannel is strong.",
-    "date": "2026-08-14",
-    "venue": "Conference",
-    "pdf": "/uploads/documents/333.pdf",
-    "published": true,
-    "id": "physical-layer-security-analysis-of-ris-assisted-multicasting-with-mvdr-beamforming-over-k-shadowed-fading-channels",
-    "body": "2026 IEEE International Conference on Microwave, Antennas, RF and Sensors (MARSCON) \n\n13-14 August 2026\n\nAhsanullah University of Science and Technology (AUST), Dhaka, Bangladesh"
-  },
-  {
-    "title": "Secure Outage Performance Analysis of Reconfigurable Intelligent Surface-Aided Networks with Selection Combining Diversity Scheme",
-    "summary": "This paper investigates the outage-based secrecy performance of reconfigurable intelligent surface (RIS)-assisted wireless communication systems with selection combining (SC) diversity over Rayleigh fading channels in the presence of a passive multi-antenna eavesdropper. Unlike existing RIS-assisted secrecy studies that mainly focus on single-antenna reception without diversity combining, this work considers a single-antenna source communicating with a multi-antenna destination through an RIS, while a passive multi-antenna eavesdropper attempts to intercept the transmission. Since the direct links between the source and both the destination and the eavesdropper are blocked by physical obstacles, all communications are established through an RIS equipped with N passive reflecting elements. Exact closed-form analytical expressions for the probability of non-zero secrecy capacity (PNZSC), intercept probability (IP), and secure outage probability (SOP) are derived and verified through Monte Carlo simulations. Numerical results demonstrate that increasing the number of RIS reflecting elements N and legitimate receiver antennas Nd significantly improves secrecy performance, whereas increasing the number of eavesdropper antennas Ne degrades secrecy reliability. Furthermore, RIS deployment can partially compensate for stronger eavesdropping conditions without increasing transmit-side complexity. The obtained results confirm that integrating RIS technology with low-complexity SC diversity provides an effective and energy-efficient solution for enhancing physical-layer security in future wireless networks.",
-    "date": "2026-06-18",
-    "venue": "Conference",
-    "link": "https://ieeexplore.ieee.org/abstract/document/11662065",
-    "pdf": "/uploads/documents/secureoutageperformanceanalysisofreconfigurableintelligentsurface-aidednetworkswithselectioncombiningdiversityscheme.pdf",
-    "published": true,
-    "id": "secure-outage-performance-analysis-of-reconfigurable-intelligent-surface-aided-networks-with-selection-combining-diversity-scheme",
-    "body": "**Published in:** [2026 International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure (PECCII)](https://ieeexplore.ieee.org/xpl/conhome/11661727/proceeding)\n\n**Date of Conference:** 17-18 June 2026\n\n**Date Added to IEEE *Xplore*:** 27 August 2026\n\n**ISBN Information:**\n\n**Electronic ISBN:**979-8-3195-3395-1\n\n**Print on Demand(PoD) ISBN:**979-8-3195-3396-8\n\n**DOI:** [10.1109/PECCII70991.2026.11662065](https://doi.org/10.1109/PECCII70991.2026.11662065)\n\n**Publisher:** IEEE"
-  },
-  {
+    "id": "highly-sensitive-n-fk51acuznsebp-based-spr-biosensor-for-dengue-virus-detection-a-tmm-and-fem-approach",
     "title": "Highly Sensitive N-FK51A/Cu/ZnSe/BP-Based SPR Biosensor for Dengue Virus Detection: A TMM and FEM Approach",
     "summary": "This work demonstrates the design and optimization of a multilayer prism-based Surface Plasmon Resonance (SPR) biosensor intended for the early and accurate detection of blood cells infected with the dengue virus. Our proposed structure utilizes an N-FK51A prism that is coated with copper (Cu), zinc selenide (ZnSe), and a monolayer of black phosphorus (BP). This configuration creates an optimized plasmonic interface that improves light-matter interaction. To determine the optimal thickness of each layer, we applied Finite Element Method (FEM) simulation in COMSOL Multiphysics and Transfer Matrix Method (TMM) analysis in MATLAB. The biosensor shows a peak angular sensitivity of 327.71°/RIU, full width at half maximum (FWHM) of 1.89 deg., 0.7874 deg-1 detection accuracy (DA), and a quality factor (QF) of 156.68 RIU-1 for dengue-affected hemoglobin cells. Close agreement of results obtained from FEM and TMM confirms the computational approaches accuracy and the reliability of the proposed model. Overall, the proposed N-FK51A/Cu/ZnSe/BP biosensor offers a cost-effective and promising platform for rapid detection dengue virus.",
     "date": "2026-01-30",
@@ -37,19 +8,10 @@
     "link": "https://ieeexplore.ieee.org/abstract/document/11429375",
     "pdf": "/uploads/documents/501paper.pdf",
     "published": true,
-    "id": "highly-sensitive-n-fk51acuznsebp-based-spr-biosensor-for-dengue-virus-detection-a-tmm-and-fem-approach",
     "body": "**Published in:** [2026 5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/11429158/proceeding)\n\n**Date of Conference:** 29-31 January 2026\n\n**Date Added to IEEE *Xplore*:** 16 March 2026\n\n**ISBN Information:**\n\n**Electronic ISBN:**979-8-3315-6135-2\n\n**Print on Demand(PoD) ISBN:**979-8-3315-6136-9\n\n**DOI:** [10.1109/ICECTE69292.2026.11429375](https://doi.org/10.1109/ICECTE69292.2026.11429375)\n\n**Publisher:** IEEE"
   },
   {
-    "title": "Example: Your research",
-    "summary": "Summarize the research question and main findings.",
-    "date": "2026-01-01",
-    "venue": "Journal or conference",
-    "published": false,
-    "id": "example-research",
-    "body": "\nReplace this example with your abstract, methods, and findings.\n"
-  },
-  {
+    "id": "design-and-optimization-of-a-cafcugoinn-multilayer-spr-biosensor-for-label-free-and-highly-sensitive-tuberculosis-diagnosis",
     "title": "Design and optimization of a CaF₂/Cu/GO/InN multilayer SPR biosensor for label-free and highly sensitive tuberculosis diagnosis",
     "summary": "This study focuses on the design and optimization of a novel, high-performance prism-based Surface Plasmon Resonance (SPR) biosensor for the early detection of Mycobacterium tuberculosis. The designed multilayer structure has five layers, which are CaF2 prism, Cu as a plasmonic layer, GO as a bio-functional layer, an InN as a high-index dielectric layer, and a sensing medium as the top layer. To optimize the materials and their respective thicknesses, the Transfer Matrix Method (TMM) in MATLAB has been utilized, and validation of the results is carried out using Finite Element Method (FEM) simulations in COMSOL Multiphysics. The results obtained from both TMM and FEM are similar. The optimized configuration, with layer thicknesses of 40 nm for Cu,10 nm for GO, and 5 nm for InN, achieves a maximum angular sensitivity of 588.33∘/ RIU and a quality factor (QF) of 156.68 RIU −1 between 1.351 and 1.348 for the refractive index, which surpasses all previously reported TB-specific SPR sensors. Additionally, the sensor exhibits a low full-width at half maximum (FWHM) of 3.75° and a detection accuracy (DA) of 0.3067deg−1. A study of thickness variations in Cu, GO, and InN through parametric analysis confirmed improved plasmon coupling, improved detection accuracy, and higher quality factors. This biosensor offers a promising platform for rapid, label-free, and highly sensitive tuberculosis diagnosis, as it integrates low optical dispersion from CaF2, strong plasmonic resonance from Cu, effective biomolecular adsorption from GO, and excellent light confinement from InN.",
     "date": "2025-12-19",
@@ -57,7 +19,46 @@
     "link": "https://ieeexplore.ieee.org/abstract/document/11414896",
     "pdf": "/uploads/documents/conferencetuberculosisdetection3.pdf",
     "published": true,
-    "id": "design-and-optimization-of-a-cafcugoinn-multilayer-spr-biosensor-for-label-free-and-highly-sensitive-tuberculosis-diagnosis",
     "body": "**Published in:** [2025 IEEE International Conference on Telecommunications and Photonics (ICTP)](https://ieeexplore.ieee.org/xpl/conhome/11414239/proceeding)\n\n**Date of Conference:** 18-19 December 2025\n\n**Date Added to IEEE *Xplore*:** 06 March 2026\n\n**ISBN Information:**\n\n**Electronic ISBN:**979-8-3315-8827-4\n\n**Print on Demand(PoD) ISBN:**979-8-3315-8828-1\n\n**ISSN Information:**\n\n**Electronic ISSN:** 2836-2985\n\n**Print on Demand(PoD) ISSN:** 2836-2977\n\n**DOI:** [10.1109/ICTP68765.2025.11414896](https://doi.org/10.1109/ICTP68765.2025.11414896)\n\n**Publisher:** IEEE"
+  },
+  {
+    "id": "high-performance-dual-channel-pcf-spr-biosensor-for-broad-range-multi-analyte-biomedical-sensing",
+    "title": "High-Performance Dual-Channel PCF-SPR  Biosensor for Broad-Range Multi-Analyte  Biomedical Sensing",
+    "summary": "This paper proposes a dual-core, dual-channel \nPhotonic crystal fiber-based surface plasmon resonance (PCF\nSPR) biosensor, numerically evaluated via the finite element \nmethod (FEM), and capable of simultaneous multi-analyte \ndetection over a refractive index (RI) range of 1.18-1.42 using \ngold as the plasmonic layer. The proposed design has maximum \nwavelength sensitivity of 38000nm/RIU, amplitude sensitivity of \n1414.43 RIU−1, figure of merit of 655.17 RIU−1 and sensor \nresolution of 9×10−6 RIU. There exists no crosstalk between the \ntwo channels and the structural tolerance analysis shows that \nthe design is robust under reasonable fabrication deviations. In \naddition to RI sensing, the sensor is able to discriminate six \ncancer cell types, with a maximum sensitivity of 7142.85 nm/RIU \nfor MCF-7 cells, and four bacterial pathogens, measuring up to \n4878.04 nm/RIU for Enterococcus faecalis. These findings \nhighlight its potential for practical diagnostic applications. ",
+    "date": "2026-09-01",
+    "venue": "Conference",
+    "pdf": "/uploads/documents/333.pdf",
+    "published": false
+  },
+  {
+    "id": "physical-layer-security-analysis-of-ris-assisted-multicasting-with-mvdr-beamforming-over-k-shadowed-fading-channels",
+    "title": "Physical Layer Security Analysis of RIS-Assisted Multicasting with MVDR Beamforming Over κ-µ Shadowed Fading Channels",
+    "summary": "This paper presents a physical layer security analysis of RIS-assisted multicasting with minimum variance dis\ntortionless response (MVDR) beamforming over κ-µ shadowed fading channels. The MVDR framework is applied at the RIS to jointly maximize the received SINR at the weakest legitimate destination user and suppress the signal leakage toward a passive eavesdropper. By treating the cascade RIS channel as a virtual array, the MVDR weight vector is derived in closed form via the Sherman–Morrison identity, and the resulting SINR is shown to follow a κ-µ shadowed distribution through moment-matching.\nLeveraging this statistical characterization, closed-form expres\nsions are derived for three security metrics applicable to K\nuser multicast scenarios: the ergodic secrecy capacity (ESC), the\nprobability of non-zero secrecy capacity (PNZSC), and the secure\noutage probability (SOP). Monte Carlo simulations validate the\nanalytical results, and numerical evaluations demonstrate that\nincreasing the number of RIS elements N, the Rician factor κ,\nand the multipath clustering parameter µ consistently improves\nsecrecy performance. Results further confirm that MVDR beam\nforming provides a measurable security gain over conventional\ncoherent phase alignment, particularly when the eavesdropper\nchannel is strong.",
+    "date": "2026-08-14",
+    "venue": "Conference",
+    "pdf": "/uploads/documents/333.pdf",
+    "published": true,
+    "body": "2026 IEEE International Conference on Microwave, Antennas, RF and Sensors (MARSCON) \n\n13-14 August 2026\n\nAhsanullah University of Science and Technology (AUST), Dhaka, Bangladesh"
+  },
+  {
+    "id": "secure-outage-performance-analysis-of-reconfigurable-intelligent-surface-aided-networks-with-selection-combining-diversity-scheme",
+    "title": "Secure Outage Performance Analysis of Reconfigurable Intelligent Surface-Aided Networks with Selection Combining Diversity Scheme",
+    "summary": "This paper investigates the outage-based secrecy performance of reconfigurable intelligent surface (RIS)-assisted wireless communication systems with selection combining (SC) diversity over Rayleigh fading channels in the presence of a passive multi-antenna eavesdropper. Unlike existing RIS-assisted secrecy studies that mainly focus on single-antenna reception without diversity combining, this work considers a single-antenna source communicating with a multi-antenna destination through an RIS, while a passive multi-antenna eavesdropper attempts to intercept the transmission. Since the direct links between the source and both the destination and the eavesdropper are blocked by physical obstacles, all communications are established through an RIS equipped with N passive reflecting elements. Exact closed-form analytical expressions for the probability of non-zero secrecy capacity (PNZSC), intercept probability (IP), and secure outage probability (SOP) are derived and verified through Monte Carlo simulations. Numerical results demonstrate that increasing the number of RIS reflecting elements N and legitimate receiver antennas Nd significantly improves secrecy performance, whereas increasing the number of eavesdropper antennas Ne degrades secrecy reliability. Furthermore, RIS deployment can partially compensate for stronger eavesdropping conditions without increasing transmit-side complexity. The obtained results confirm that integrating RIS technology with low-complexity SC diversity provides an effective and energy-efficient solution for enhancing physical-layer security in future wireless networks.",
+    "date": "2026-06-18",
+    "venue": "Conference",
+    "link": "https://ieeexplore.ieee.org/abstract/document/11662065",
+    "pdf": "/uploads/documents/secureoutageperformanceanalysisofreconfigurableintelligentsurface-aidednetworkswithselectioncombiningdiversityscheme.pdf",
+    "published": true,
+    "body": "**Published in:** [2026 International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure (PECCII)](https://ieeexplore.ieee.org/xpl/conhome/11661727/proceeding)\n\n**Date of Conference:** 17-18 June 2026\n\n**Date Added to IEEE *Xplore*:** 27 August 2026\n\n**ISBN Information:**\n\n**Electronic ISBN:**979-8-3195-3395-1\n\n**Print on Demand(PoD) ISBN:**979-8-3195-3396-8\n\n**DOI:** [10.1109/PECCII70991.2026.11662065](https://doi.org/10.1109/PECCII70991.2026.11662065)\n\n**Publisher:** IEEE"
+  },
+  {
+    "id": "example-research",
+    "title": "Example: Your research",
+    "summary": "Summarize the research question and main findings.",
+    "date": "2026-01-01",
+    "venue": "Journal or conference",
+    "pdf": "/uploads/documents/conferencetuberculosisdetection3.pdf",
+    "published": false,
+    "body": "Replace this example with your abstract, methods, and findings."
   }
 ]
