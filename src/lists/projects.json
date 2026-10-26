@@ -1,8 +1,6 @@
 [
   {
-    "id": "pyroguard-an-intelligent-fire-fighting-robot-for-rapid-emergency-response",
     "title": "PyroGuard: An Intelligent Fire Fighting Robot for Rapid Emergency Response",
-    "summary": "An Intelligent Fire Fighting Robot for Rapid Emergency Response",
     "date": "2026-06-10",
     "image": "/uploads/images/img20260609172734003-4.jpg",
     "gallery": [
@@ -21,5 +19,24 @@
     ],
     "featured": true,
     "published": true
+  },
+  {
+    "title": "Smart Arduino-Powered Parking Management & Monitoring System",
+    "summary": "The Automatic Car Parking System operates based on vehicle detection, user authorization, and automatic gate control. It uses an Arduino microcontroller to coordinate inputs from sensors and control actuators to manage parking access securely and efficiently. ",
+    "date": "2025-09-08",
+    "image": "/uploads/images/whatsapp-image-2026-10-27-at-120643-am-1-1.jpeg",
+    "gallery": [
+      {
+        "image": "/uploads/images/whatsapp-image-2026-10-27-at-125413-am.jpeg"
+      },
+      {
+        "image": "/uploads/images/whatsapp-image-2026-10-27-at-125419-am.jpeg"
+      },
+      {
+        "image": "/uploads/images/whatsapp-image-2026-10-27-at-120643-am.jpeg"
+      }
+    ],
+    "featured": false,
+    "published": false
   }
 ]
