@@ -68,3 +68,15 @@ To generate project previews locally, have Google Chrome installed and run `npm 
 | `public/uploads/` | Uploaded images and PDF files |
 
 Client copies are independent: changes in one person's repository do not affect anyone else's. Later improvements to this template must be applied separately to existing copies.
+
+## Add, edit and drag entries in the same editor
+
+Open Projects, Research & publications, Certificates, Achievements & awards or Gallery in Pages CMS. Each section is now one editable list, like Experience and Education. Add an item, fill its fields, drag its grip to arrange it, and Save. The website follows the saved list order regardless of dates. There is no separate Arrange entries screen. Published controls visibility; removing an item removes it from the website after deployment.
+
+Existing page addresses and all metadata, Markdown details, photo captions and upload paths are retained. For a new entry, Page address is optional and defaults to its title; enter a unique stable address if you want its URL to remain the same after renaming it. Existing addresses should be left unchanged.
+
+Active content lives in `src/lists/projects.json`, `research.json`, `certificates.json`, `achievements.json` and `gallery.json`. Old `src/content/` Markdown files are preserved as backups and are not read once the corresponding list exists. An empty list stays empty, so deleted examples do not reappear. Old `src/settings/entry-order.json` is no longer used.
+
+`npm run migrate` creates only missing lists from the repository's own Markdown files, preserving the previous order. It also runs before check, development and build. It never overwrites an existing list or deletes original files. For updates to client repositories, preserve `src/lists/` exactly like `src/data/` and `public/uploads/`; never copy template example lists onto client content. Generate a client's initial lists from their own checkout after pulling their latest CMS changes.
+
+The homepage Gallery remains limited to three selected photos. Use Feature on homepage or Feature cover on homepage to select them. Gallery photo priorities remain compatible with previous values.
