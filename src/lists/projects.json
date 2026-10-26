@@ -1,46 +1,33 @@
 [
   {
+    "id": "pyroguard-an-intelligent-fire-fighting-robot-for-rapid-emergency-response",
     "title": "PyroGuard: An Intelligent Fire Fighting Robot for Rapid Emergency Response",
     "summary": " An Intelligent Fire Fighting Robot for Rapid Emergency Response",
     "date": "2026-06-10",
-    "featureCover": false,
-    "homepageCover": false,
+    "image": "/uploads/images/img20260609172734003-1.jpg",
     "gallery": [
       {
-        "image": "/uploads/images/whatsapp-image-2026-10-26-at-110953-pm.jpeg",
-        "featured": false,
-        "homepage": false
+        "image": "/uploads/images/whatsapp-image-2026-10-26-at-110953-pm.jpeg"
       },
       {
-        "image": "/uploads/images/whatsapp-image-2026-10-26-at-111141-pm-1-1.jpeg",
-        "featured": false,
-        "homepage": false
+        "image": "/uploads/images/whatsapp-image-2026-10-26-at-111141-pm-1-1.jpeg"
       },
+      {},
       {
-        "image": "/uploads/images/img20260609172734003.jpg",
-        "featured": false,
-        "homepage": false
-      },
-      {
-        "image": "/uploads/images/whatsapp-image-2026-10-26-at-111141-pm.jpeg",
-        "featured": false,
-        "homepage": false
+        "image": "/uploads/images/whatsapp-image-2026-10-26-at-111141-pm.jpeg"
       }
     ],
-    "featured": false,
-    "order": 0,
-    "published": true,
-    "id": "pyroguard-an-intelligent-fire-fighting-robot-for-rapid-emergency-response",
-    "body": ""
+    "featured": true,
+    "published": true
   },
   {
+    "id": "example-project",
     "title": "Example: Your project",
     "summary": "Describe the project, your contribution, and its impact.",
     "date": "2026-01-01",
     "category": "Project",
-    "featured": true,
+    "featured": false,
     "published": false,
-    "id": "example-project",
-    "body": "\nReplace this example with the project background, your approach, and the results.\n"
+    "body": "Replace this example with the project background, your approach, and the results."
   }
 ]
