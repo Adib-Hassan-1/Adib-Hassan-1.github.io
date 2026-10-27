@@ -116,5 +116,19 @@
     "location": "Rajshahi University of Engineering and Technology",
     "featured": false,
     "published": true
+  },
+  {
+    "id": "shared-13cee0602c24",
+    "title": "Certificate of Recognition",
+    "summary": "This Certificate Recognizes the Participation of\nAdib Hassan\nas an Organizing Committee Member at the 2024 - 2025 Oncampus Program\nRajshahi University of Engineering & Technology\nHarndi Elmi\nSenior 01 Programs\nHun P\nFebruary 26th 2025",
+    "date": "2025-02-26",
+    "image": "/uploads/images/whatsapp-image-2026-10-27-at-120030-am.jpeg",
+    "location": "HULT PRIZE at RUET",
+    "featured": false,
+    "published": true,
+    "relatedHref": "/recognition/achievements/certificate-of-recognition/",
+    "relatedLabel": "Related achievement",
+    "linkedImage": "/uploads/images/whatsapp-image-2026-10-27-at-120030-am.jpeg",
+    "linkedData": "{\"title\":\"Certificate of Recognition\",\"summary\":\"This Certificate Recognizes the Participation of\\nAdib Hassan\\nas an Organizing Committee Member at the 2024 - 2025 Oncampus Program\\nRajshahi University of Engineering & Technology\\nHarndi Elmi\\nSenior 01 Programs\\nHun P\\nFebruary 26th 2025\",\"date\":\"2025-02-26\",\"image\":\"/uploads/images/whatsapp-image-2026-10-27-at-120030-am.jpeg\",\"location\":\"HULT PRIZE at RUET\",\"featured\":false,\"published\":true,\"relatedHref\":\"/recognition/achievements/certificate-of-recognition/\",\"relatedLabel\":\"Related achievement\"}"
   }
 ]
