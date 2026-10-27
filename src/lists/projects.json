@@ -36,5 +36,26 @@
     ],
     "featured": true,
     "published": true
+  },
+  {
+    "title": "AutoSentinel : Arduino powered ultrasonic radar with precision targeting and  firing system",
+    "summary": "AutoSentinel is a cutting-edge radar system powered by Arduino technology, designed for\nprecision targeting and firing. It caters to the defense and security sectors, providing high\naccuracy and cost-effectiveness",
+    "date": "2023-10-27",
+    "gallery": [
+      {
+        "image": "/uploads/images/49924734640123695357587163842660494730749477n.jpg"
+      },
+      {
+        "image": "/uploads/images/whatsapp-image-2026-10-27-at-125420-am.jpeg"
+      },
+      {
+        "image": "/uploads/images/autosentinel-arduino-powered-ultrasonic-radar-with-precision-targeting-and.png"
+      },
+      {
+        "image": "/uploads/images/autosentinel-arduino-powered-ultrasonic-radar-with-precision-targeting-poster.jpg"
+      }
+    ],
+    "featured": true,
+    "published": true
   }
 ]
