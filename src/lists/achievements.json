@@ -27,6 +27,13 @@
     "image": "/uploads/images/ieeechair-1.jpg",
     "featureCover": false,
     "homepageCover": false,
+    "gallery": [
+      {
+        "image": "/uploads/images/whatsapp-image-2026-10-18-at-115458-am-2.jpeg",
+        "featured": false,
+        "homepage": false
+      }
+    ],
     "link": "https://ieeeruetsb.net/hall-of-fame/",
     "published": true
   },
@@ -183,6 +190,13 @@
     "image": "/uploads/images/siliconova.jpg",
     "featureCover": false,
     "homepageCover": false,
+    "gallery": [
+      {
+        "image": "/uploads/images/whatsapp-image-2026-10-26-at-114237-pm.jpeg",
+        "featured": true,
+        "homepage": false
+      }
+    ],
     "link": "https://www.siliconova.com/",
     "published": true
   },
