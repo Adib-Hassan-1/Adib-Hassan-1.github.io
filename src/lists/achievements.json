@@ -164,6 +164,11 @@
         "image": "/uploads/images/whatsapp-image-2026-10-21-at-124753-am-1.jpeg",
         "featured": false,
         "homepage": false
+      },
+      {
+        "image": "/uploads/images/whatsapp-image-2026-10-27-at-120030-am.jpeg",
+        "featured": true,
+        "homepage": false
       }
     ],
     "link": "https://www.facebook.com/hultprizeatruet",
