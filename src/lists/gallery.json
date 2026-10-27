@@ -130,5 +130,19 @@
     "relatedLabel": "Related achievement",
     "linkedImage": "/uploads/images/whatsapp-image-2026-10-27-at-120030-am.jpeg",
     "linkedData": "{\"title\":\"Certificate of Recognition\",\"summary\":\"This Certificate Recognizes the Participation of\\nAdib Hassan\\nas an Organizing Committee Member at the 2024 - 2025 Oncampus Program\\nRajshahi University of Engineering & Technology\\nHarndi Elmi\\nSenior 01 Programs\\nHun P\\nFebruary 26th 2025\",\"date\":\"2025-02-26\",\"image\":\"/uploads/images/whatsapp-image-2026-10-27-at-120030-am.jpeg\",\"location\":\"HULT PRIZE at RUET\",\"featured\":false,\"published\":true,\"relatedHref\":\"/recognition/achievements/certificate-of-recognition/\",\"relatedLabel\":\"Related achievement\"}"
+  },
+  {
+    "id": "shared-8c35566c8122",
+    "title": "Certificate of Participation",
+    "summary": "SILICONOVA LIMITED AWARDS A CERTIFICATE OF PARTICIPATION TO\nAdib Hassan\nAs of full-time involvement in Industrial Training\nSession from March 2nd to March 7th 2025",
+    "date": "2025-02-10",
+    "image": "/uploads/images/whatsapp-image-2026-10-26-at-114237-pm.jpeg",
+    "location": "Siliconova Limited",
+    "featured": false,
+    "published": true,
+    "relatedHref": "/recognition/achievements/certificate-of-participation/",
+    "relatedLabel": "Related achievement",
+    "linkedImage": "/uploads/images/whatsapp-image-2026-10-26-at-114237-pm.jpeg",
+    "linkedData": "{\"title\":\"Certificate of Participation\",\"summary\":\"SILICONOVA LIMITED AWARDS A CERTIFICATE OF PARTICIPATION TO\\nAdib Hassan\\nAs of full-time involvement in Industrial Training\\nSession from March 2nd to March 7th 2025\",\"date\":\"2025-02-10\",\"image\":\"/uploads/images/whatsapp-image-2026-10-26-at-114237-pm.jpeg\",\"location\":\"Siliconova Limited\",\"featured\":false,\"published\":true,\"relatedHref\":\"/recognition/achievements/certificate-of-participation/\",\"relatedLabel\":\"Related achievement\"}"
   }
 ]
