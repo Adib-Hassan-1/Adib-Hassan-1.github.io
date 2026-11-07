@@ -105,6 +105,10 @@
       {
         "image": "/uploads/images/appartmentmcb.png",
         "caption": "Electrical Fixture Layout Per Apartment Electrical MCB, SPD, RCCB"
+      },
+      {
+        "image": "/uploads/images/lobbyandgfloormcb.png",
+        "caption": "Lobby & Ground Floor"
       }
     ],
     "featured": true,
