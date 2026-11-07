@@ -234,5 +234,15 @@
     "homepageCover": false,
     "link": "https://ndc.edu.bd/",
     "published": true
+  },
+  {
+    "title": "Certificate of Recogition",
+    "summary": "Hans on Python: Introduction to Machine Learning Universe",
+    "date": "2023-05-19",
+    "organization": "IEEE RUET Robotic & Automation Society",
+    "image": "/uploads/images/48720598139641668905789813822684581558902364n.jpg",
+    "featureCover": true,
+    "homepageCover": false,
+    "published": true
   }
 ]
