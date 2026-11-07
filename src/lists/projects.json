@@ -101,6 +101,10 @@
       {
         "image": "/uploads/images/adibground-final.png",
         "caption": "Ground Floor"
+      },
+      {
+        "image": "/uploads/images/appartmentmcb.png",
+        "caption": "Electrical Fixture Layout Per Apartment Electrical MCB, SPD, RCCB"
       }
     ],
     "source": "file:///D:/Desktop/4-1%20Semester/Lab/Electrical%20Service%20Design/New%20folder/Assignment/Assignment%20Merged.pdf",
