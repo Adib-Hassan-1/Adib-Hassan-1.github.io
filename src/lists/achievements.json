@@ -243,6 +243,18 @@
     "image": "/uploads/images/48720598139641668905789813822684581558902364n.jpg",
     "featureCover": true,
     "homepageCover": false,
+    "gallery": [
+      {
+        "image": "/uploads/images/ieee-certficate-5-1.jpg",
+        "featured": false,
+        "homepage": false
+      },
+      {
+        "image": "/uploads/images/ieee-certficate-6.jpg",
+        "featured": false,
+        "homepage": false
+      }
+    ],
     "published": true
   }
 ]
