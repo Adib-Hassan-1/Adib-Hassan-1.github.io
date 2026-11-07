@@ -241,13 +241,13 @@
     "summary": "Hands on Python: Introduction to Machine Learning Universe",
     "date": "2023-05-19",
     "organization": "IEEE RUET Robotic & Automation Society",
-    "image": "/uploads/images/48720598139641668905789813822684581558902364n.jpg",
-    "featureCover": true,
+    "image": "/uploads/images/ieee-certficate-5-2.jpg",
+    "featureCover": false,
     "homepageCover": false,
     "gallery": [
       {
-        "image": "/uploads/images/ieee-certficate-5-1.jpg",
-        "featured": false,
+        "image": "/uploads/images/48720598139641668905789813822684581558902364n-1.jpg",
+        "featured": true,
         "homepage": false
       },
       {
