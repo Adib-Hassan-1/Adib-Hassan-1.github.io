@@ -74,30 +74,6 @@
     "published": true
   },
   {
-    "id": "certificate-of-presentation-1",
-    "title": "Certificate of Presentation",
-    "summary": "Presented our paper titled \"Physical Layer Security Analysis of RIS-Assisted Multcasting with MVDR Beamforming Over κ-µ Shadowed Fading Channels\" in MARSCON 2026",
-    "date": "2026-08-14",
-    "organization": "2026 IEEE International Conference on Microwave, Antennas, RF and Sensors (MARSCON)",
-    "image": "/uploads/images/marsconpapercertificate.jpg",
-    "featureCover": false,
-    "homepageCover": false,
-    "link": "https://r10.ieee.org/bd-aps-mtts/marscon/",
-    "published": true
-  },
-  {
-    "id": "certificate-of-presentation",
-    "title": "Certificate of Presentation",
-    "summary": "Successfully presented or paper titled \"Secure Outage Performance Analysis of Reconfigurable Intelligent\nSurface-Aided Networks with Selection Combining Diversity Scheme\" at the International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure 2026 (PECCII 2026), organized by\nthe Faculty of Engineering and Technology, Pabna University of Science and Technology (PUST), Pabna, Bangladesh",
-    "date": "2026-06-18",
-    "organization": " International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure 2026 (PECCII 2026)",
-    "image": "/uploads/images/peccipapercertificate.jpg",
-    "featureCover": false,
-    "homepageCover": false,
-    "link": "https://peccii.pust.ac.bd/",
-    "published": true
-  },
-  {
     "id": "certificate-of-contribution",
     "title": "Certificate of Contribution & Certificate of Appreciation",
     "summary": "A significant milestone in my research journey, presenting my work at the 2026 5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE 2026). Alongside presenting my research, I had the privilege of serving as a leading organizing member of the conference as part of the IEEE RUET Student Branch, contributing to the successful execution of this international academic event. An enriching experience that brought together research, technical excellence, teamwork, and professional leadership.",
@@ -120,6 +96,30 @@
       }
     ],
     "link": "https://icecte.ruet.ac.bd/",
+    "published": true
+  },
+  {
+    "id": "certificate-of-presentation-1",
+    "title": "Certificate of Presentation",
+    "summary": "Presented our paper titled \"Physical Layer Security Analysis of RIS-Assisted Multcasting with MVDR Beamforming Over κ-µ Shadowed Fading Channels\" in MARSCON 2026",
+    "date": "2026-08-14",
+    "organization": "2026 IEEE International Conference on Microwave, Antennas, RF and Sensors (MARSCON)",
+    "image": "/uploads/images/marsconpapercertificate.jpg",
+    "featureCover": false,
+    "homepageCover": false,
+    "link": "https://r10.ieee.org/bd-aps-mtts/marscon/",
+    "published": true
+  },
+  {
+    "id": "certificate-of-presentation",
+    "title": "Certificate of Presentation",
+    "summary": "Successfully presented or paper titled \"Secure Outage Performance Analysis of Reconfigurable Intelligent Surface-Aided Networks with Selection Combining Diversity Scheme\" at the International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure 2026 (PECCII 2026), organized by the Faculty of Engineering and Technology, Pabna University of Science and Technology (PUST), Pabna, Bangladesh",
+    "date": "2026-06-18",
+    "organization": " International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure 2026 (PECCII 2026)",
+    "image": "/uploads/images/peccipapercertificate.jpg",
+    "featureCover": false,
+    "homepageCover": false,
+    "link": "https://peccii.pust.ac.bd/",
     "published": true
   },
   {
