@@ -1,5 +1,26 @@
 [
   {
+    "title": "AutoSentinel : Arduino powered ultrasonic radar with precision targeting and  firing system",
+    "summary": "AutoSentinel is a cutting-edge radar system powered by Arduino technology, designed for precision targeting and firing. It caters to the defense and security sectors, providing high accuracy and cost-effectiveness",
+    "date": "2024-10-27",
+    "gallery": [
+      {
+        "image": "/uploads/images/49924734640123695357587163842660494730749477n.jpg"
+      },
+      {
+        "image": "/uploads/images/whatsapp-image-2026-10-27-at-125420-am.jpeg"
+      },
+      {
+        "image": "/uploads/images/autosentinel-arduino-powered-ultrasonic-radar-with-precision-targeting-and.png"
+      },
+      {
+        "image": "/uploads/images/autosentinel-arduino-powered-ultrasonic-radar-with-precision-targeting-poster.jpg"
+      }
+    ],
+    "featured": true,
+    "published": true
+  },
+  {
     "title": "PyroGuard: An Intelligent Fire Fighting Robot for Rapid Emergency Response",
     "summary": "Developed PyroGuard, an intelligent firefighting robot aimed at improving emergency response through rapid fire detection, autonomous navigation, and targeted fire suppression. The project focuses on minimizing human intervention in hazardous environments, enhancing firefighting efficiency, and improving safety during fire emergencies through robotics and intelligent automation.",
     "date": "2026-06-10",
@@ -33,27 +54,6 @@
       },
       {
         "image": "/uploads/images/whatsapp-image-2026-10-27-at-120643-am.jpeg"
-      }
-    ],
-    "featured": true,
-    "published": true
-  },
-  {
-    "title": "AutoSentinel : Arduino powered ultrasonic radar with precision targeting and  firing system",
-    "summary": "AutoSentinel is a cutting-edge radar system powered by Arduino technology, designed for precision targeting and firing. It caters to the defense and security sectors, providing high accuracy and cost-effectiveness",
-    "date": "2024-10-27",
-    "gallery": [
-      {
-        "image": "/uploads/images/49924734640123695357587163842660494730749477n.jpg"
-      },
-      {
-        "image": "/uploads/images/whatsapp-image-2026-10-27-at-125420-am.jpeg"
-      },
-      {
-        "image": "/uploads/images/autosentinel-arduino-powered-ultrasonic-radar-with-precision-targeting-and.png"
-      },
-      {
-        "image": "/uploads/images/autosentinel-arduino-powered-ultrasonic-radar-with-precision-targeting-poster.jpg"
       }
     ],
     "featured": true,
