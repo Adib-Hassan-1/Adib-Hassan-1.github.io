@@ -1,7 +1,7 @@
 import { createHash } from 'node:crypto';
 import { writeFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
-import { slug } from 'github-slugger';
+import { assignEntryIds } from '../src/lib/entry-ids.mjs';
 import { readEntries, listPath } from './content-files.mjs';
 
 // One Gallery record per selected image; the uploaded file is reused.
@@ -9,9 +9,11 @@ export function syncGallery(current, sources) {
   const selected = new Map();
   for (const collection of ['achievements', 'certificates']) {
     const entries = sources[collection] || [];
-    for (const entry of entries.filter(entry => entry.published)) {
+    const ids = assignEntryIds(entries);
+    for (const [index, entry] of entries.entries()) {
+      if (!entry.published) continue;
       const certificate = collection === 'certificates';
-      const id = entry.id?.trim() || slug(entry.title);
+      const id = ids[index];
       const photos = [
         { image: entry.image, featured: entry.featureCover, homepage: entry.homepageCover },
         ...(entry.gallery || []).map(photo => ({ ...photo,

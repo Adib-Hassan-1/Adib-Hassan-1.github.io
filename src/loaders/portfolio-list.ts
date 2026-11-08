@@ -1,7 +1,7 @@
 import { readFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import type { Loader } from 'astro/loaders';
-import { slug } from 'github-slugger';
+import { assignEntryIds } from '../lib/entry-ids.mjs';
 
 // Keep existing detail URLs and Markdown rendering while following the saved list order.
 export function portfolioList(name: string): Loader {
@@ -13,13 +13,10 @@ export function portfolioList(name: string): Loader {
       const sync = async () => {
         const entries = JSON.parse(await readFile(url, 'utf8'));
         if (!Array.isArray(entries)) throw new Error(`${filePath} must contain a list.`);
-        const ids = new Set<string>();
+        const ids = assignEntryIds(entries);
         const loaded = [];
         for (const [position, entry] of entries.entries()) {
-          const id = entry.id?.trim() || slug(entry.title || '');
-          if (!id || ids.has(id)) throw new Error(`Use a unique Page address for each entry in ${filePath}: ${id}`);
-          if (id.split('/').some((part: string) => !part || part === '.' || part === '..')) throw new Error(`Invalid Page address: ${id}`);
-          ids.add(id);
+          const id = ids[position];
           const data = await parseData({ id, data: { ...entry, listPosition: position }, filePath });
           const body = entry.body || '';
           loaded.push({ id, data, body, filePath, rendered: await renderMarkdown(body, { fileURL: url }) });
