@@ -113,5 +113,23 @@
     ],
     "featured": true,
     "published": true
+  },
+  {
+    "title": "PathFinder: An Intelligent Autonomous Line Following Robot",
+    "summary": "PathFinder is a smart autonomous robot that sees the path, follows the line, and navigates its way independently using intelligent sensor-based tracking and real-time decision-making.",
+    "date": "2022-11-09",
+    "gallery": [
+      {
+        "image": "/uploads/images/img20261109024913526jpg.jpeg"
+      },
+      {
+        "image": "/uploads/images/img20261109024940570jpg.jpeg"
+      },
+      {
+        "image": "/uploads/images/img20261109024929653.png"
+      }
+    ],
+    "featured": false,
+    "published": true
   }
 ]
