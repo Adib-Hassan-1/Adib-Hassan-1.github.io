@@ -112,7 +112,7 @@ content:
     path: src/lists/projects.json
     format: json
     fields:
-      - { name: id, label: Page address, type: string, description: "Optional for new entries: uses the title when empty. Keep existing addresses unchanged to retain shared links." }
+      - { name: id, label: Page address, type: string, hidden: true }
       - { name: title, label: Title, type: string, required: true }
       - { name: summary, label: Short summary, type: text, description: "Optional. Leave empty to show just the project title, photos and links." }
       - { name: date, label: Date, type: date, required: true }
@@ -148,7 +148,7 @@ content:
     path: src/lists/research.json
     format: json
     fields:
-      - { name: id, label: Page address, type: string, description: "Optional for new entries: uses the title when empty. Keep existing addresses unchanged to retain shared links." }
+      - { name: id, label: Page address, type: string, hidden: true }
       - { name: title, label: Title, type: string, required: true }
       - { name: summary, label: Short summary, type: text, required: true }
       - { name: date, label: Date, type: date, required: true }
@@ -172,7 +172,7 @@ content:
     path: src/lists/certificates.json
     format: json
     fields:
-      - { name: id, label: Page address, type: string, description: "Optional for new entries: uses the title when empty. Keep existing addresses unchanged to retain shared links." }
+      - { name: id, label: Page address, type: string, hidden: true }
       - { name: title, label: Title, type: string, required: true }
       - { name: summary, label: Short summary, type: text, required: true }
       - { name: date, label: Issue date, type: date, required: true }
@@ -198,7 +198,7 @@ content:
     path: src/lists/achievements.json
     format: json
     fields:
-      - { name: id, label: Page address, type: string, description: "Optional for new entries: uses the title when empty. Keep existing addresses unchanged to retain shared links." }
+      - { name: id, label: Page address, type: string, hidden: true }
       - { name: title, label: Title, type: string, required: true }
       - { name: summary, label: Short summary, type: text, required: true }
       - { name: date, label: Date, type: date, required: true }
@@ -240,7 +240,7 @@ content:
       - { name: linkedData, type: string, hidden: true }
       - { name: relatedHref, type: string, hidden: true }
       - { name: relatedLabel, type: string, hidden: true }
-      - { name: id, label: Page address, type: string, description: "Optional for new entries: uses the title when empty. Keep existing addresses unchanged to retain shared links." }
+      - { name: id, label: Page address, type: string, hidden: true }
       - { name: title, label: Title, type: string, required: true }
       - { name: summary, label: Caption or short description, type: text, required: true, description: "Photos selected in Awards or Certificates appear here after deployment. You can edit captions and drag records here. To remove a linked record, uncheck its Gallery/homepage options in the original entry." }
       - { name: date, label: Date, type: date, required: true }
