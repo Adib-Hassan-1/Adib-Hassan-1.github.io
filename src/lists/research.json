@@ -1,5 +1,14 @@
 [
   {
+    "title": "High-performance dual-channel PCF-SPR sensor for RI  interrogation and numerical analysis of cancerous cells, urinary  tract infection pathogens, and dengue-affected blood components",
+    "summary": "Label-free biosensing has made photonic crystal fiber (PCF)-based surface plasmon resonance \n(SPR) sensors increasingly popular. Yet many previously reported designs focused on detecting a single analyte within a specific refractive index (RI) range. Addressing this gap, we present a \nnumerical investigation of a dual-core, dual-channel PCF-SPR sensor operating over a RI range of 1.17–1.41. The dual-channel arrangement enables simultaneous two-analyte sensing within a \nsingle fiber, reducing detection time and system complexity. Simulations performed with the \nfinite element method (FEM) in COMSOL Multiphysics indicate a maximum wavelength sensi\ntivity (WS) of 122,000 nm/RIU, an amplitude sensitivity (AS) of 832.18 RIU⁻¹ , a figure of merit \n(FOM) of 739.39 RIU⁻¹ , and a numerical resolution of 8.2 × 10⁻⁷ RIU. The sensor can also numerically discriminate six cancer cell types, three UTI pathogens, and dengue-related blood \ncomponents, demonstrating the potential of the proposed architecture for comparative biomed\nical RI sensing.",
+    "date": "2026-11-11",
+    "venue": "Journal",
+    "link": "https://authors.elsevier.com/a/1o5OS6wQfkI2E",
+    "pdf": "/uploads/documents/final-paper-converted.pdf",
+    "published": true
+  },
+  {
     "id": "highly-sensitive-n-fk51acuznsebp-based-spr-biosensor-for-dengue-virus-detection-a-tmm-and-fem-approach",
     "title": "Highly Sensitive N-FK51A/Cu/ZnSe/BP-Based SPR Biosensor for Dengue Virus Detection: A TMM and FEM Approach",
     "summary": "This work demonstrates the design and optimization of a multilayer prism-based Surface Plasmon Resonance (SPR) biosensor intended for the early and accurate detection of blood cells infected with the dengue virus. Our proposed structure utilizes an N-FK51A prism that is coated with copper (Cu), zinc selenide (ZnSe), and a monolayer of black phosphorus (BP). This configuration creates an optimized plasmonic interface that improves light-matter interaction. To determine the optimal thickness of each layer, we applied Finite Element Method (FEM) simulation in COMSOL Multiphysics and Transfer Matrix Method (TMM) analysis in MATLAB. The biosensor shows a peak angular sensitivity of 327.71°/RIU, full width at half maximum (FWHM) of 1.89 deg., 0.7874 deg-1 detection accuracy (DA), and a quality factor (QF) of 156.68 RIU-1 for dengue-affected hemoglobin cells. Close agreement of results obtained from FEM and TMM confirms the computational approaches accuracy and the reliability of the proposed model. Overall, the proposed N-FK51A/Cu/ZnSe/BP biosensor offers a cost-effective and promising platform for rapid detection dengue virus.",
